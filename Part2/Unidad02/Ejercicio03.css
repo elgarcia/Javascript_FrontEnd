@@ -1,0 +1,11 @@
+#bloque{
+    width: 400px;
+    height: 150px;
+    background-color: aqua;
+    border: 4px greenyellow;
+    border-style: dotted;
+    margin: 50px;
+    padding: 40px;
+    font-family: Impact;
+    text-transform: capitalize;
+}

@@ -1,0 +1,11 @@
+#circle{
+    display: flex;
+    background-color: rgb(51, 109, 215);
+    width: 250px;
+    height: 250px;
+    border-color: orange;
+    border-style: double;
+    align-items: center;
+    justify-content: center;
+    border-radius: 250px;
+}
